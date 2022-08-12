@@ -11,3 +11,9 @@ def get_Madian(a, b):
     return (a*b)/2
 def get_Remainder(a, b):
     return a//b
+def get_Abs(a, b):
+    if num>=0:
+        return num
+    else:
+        return -num
+    
